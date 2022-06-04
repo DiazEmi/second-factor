@@ -1,4 +1,5 @@
 # second-factor
 second safety factor from keyboard
 
-this is a simple but effective method to know if the person trying to logging in a system is the owner of the account by the patterns of typing
+This is a simple but effective method of knowing if the person trying to log into a system is the account owner by typing patterns.
+created in python u using classic artificial intelligence models
